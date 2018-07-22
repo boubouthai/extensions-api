@@ -27,3 +27,5 @@ kramdown:
 exclude: ['node_modules', 'Examples']
 
 
+
+theme: jekyll-theme-modernist
